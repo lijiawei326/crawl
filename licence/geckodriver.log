@@ -1,0 +1,1800 @@
+1688970280278	geckodriver	INFO	Listening on 127.0.0.1:56121
+1688970282446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile5MYVGx"
+1688970321469	geckodriver	INFO	Listening on 127.0.0.1:56251
+1688970323492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56252" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilem7cFkE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688970323857	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688970323941	Marionette	INFO	Listening on port 56259
+WebDriver BiDi listening on ws://127.0.0.1:56252
+Read port: 56259
+1688970324271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56252/devtools/browser/df89e990-cabf-4fae-b880-d928cb67d26f
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1688970405369	Marionette	INFO	Stopped listening on port 56259
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileYGUaQH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688970401491	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688970401574	Marionette	INFO	Listening on port 56346
+WebDriver BiDi listening on ws://127.0.0.1:56337
+Read port: 56346
+1688970401923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56337/devtools/browser/0f82d675-5b45-445f-b8eb-d5ad6c8e3c86
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1688970509343	geckodriver	INFO	Listening on 127.0.0.1:56415
+1688970511294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileL1BdIp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688970511670	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688970511754	Marionette	INFO	Listening on port 56423
+WebDriver BiDi listening on ws://127.0.0.1:56416
+Read port: 56423
+1688970512073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56416/devtools/browser/96dea156-3020-429f-8f60-334c91813eaa
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1688970585361	geckodriver	INFO	Listening on 127.0.0.1:56478
+1688970587377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile0LShkb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688970587777	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688970587866	Marionette	INFO	Listening on port 56486
+WebDriver BiDi listening on ws://127.0.0.1:56479
+Read port: 56486
+1688970588193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56479/devtools/browser/60f0e318-169c-4ee6-b88a-fa65bc910689
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688970764278	Marionette	INFO	Stopped listening on port 56486
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileHXUO0F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688970764893	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688970764987	Marionette	INFO	Listening on port 56634
+WebDriver BiDi listening on ws://127.0.0.1:56627
+Read port: 56634
+1688970765417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56627/devtools/browser/ded26b91-078d-412c-a373-731b7317af8e
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688970951555	Marionette	INFO	Stopped listening on port 56634
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 184))
+ort" "56764" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile0VHHCg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688970883204	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688970883287	Marionette	INFO	Listening on port 56771
+WebDriver BiDi listening on ws://127.0.0.1:56764
+Read port: 56771
+1688970883586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56764/devtools/browser/077bf03c-9b5c-4140-921c-9f1f1a2ea17d
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688970954929	Marionette	INFO	Stopped listening on port 56771
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1688970954980	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: DevTools listening on ws://127.0.0.1:56885/devtools/browser/493484f4-c4fa-4c2b-9ae0-87c3dc4cf2b3
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688971014941	Marionette	INFO	Stopped listening on port 56891688971016075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileHP1vNd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688971016462	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688971016549	Marionette	INFO	Listening on port 57013
+WebDriver BiDi listening on ws://127.0.0.1:56998
+Read port: 57013
+1688971016873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56998/devtools/browser/3b6af045-ac4f-4101-8d4b-48c1c6db34bb
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688971083907	Marionette	INFO	Stopped listening on port 57013
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile6wPG8K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688971054060	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688971054147	Marionette	INFO	Listening on port 57126
+WebDriver BiDi listening on ws://127.0.0.1:57119
+Read port: 57126
+1688971054410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57119/devtools/browser/6b069152-bce4-413c-b7e6-c6be4ca719ec
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688971085969	Marionette	INFO	Stopped listening on port 57126
+Dynamically enable window occlusion 1
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/password-recipes getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1688971147071	geckodriver	INFO	Listening on 127.0.0.1:57325
+1688971149101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57326" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilerFybda"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688971149491	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688971149573	Marionette	INFO	Listening on port 57333
+WebDriver BiDi listening on ws://127.0.0.1:57326
+Read port: 57333
+1688971149919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57326/devtools/browser/e5c652d6-bdd8-420b-923a-a190bc9593d5
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688971221797	Marionette	INFO	Stopped listening on port 57331688971222326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileIBebq0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688971222708	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688971222794	Marionette	INFO	Listening on port 57477
+WebDriver BiDi listening on ws://127.0.0.1:57470
+Read port: 57477
+1688971223136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57470/devtools/browser/0b20f116-5249-486e-940d-6f089bb890d8
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1688971476033	geckodriver	INFO	Listening on 127.0.0.1:57622
+1688971478051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilecuSHL6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688971478410	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688971478494	Marionette	INFO	Listening on port 57630
+WebDriver BiDi listening on ws://127.0.0.1:57623
+Read port: 57630
+1688971478836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57623/devtools/browser/3865fe4f-ce83-4bbd-9c7b-54116a65432f
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688971591755	geckodriver	INFO	Listening on 127.0.0.1:57717
+1688971593775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilejvHuX8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688971595210	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688971595289	Marionette	INFO	Listening on port 57725
+WebDriver BiDi listening on ws://127.0.0.1:57718
+Read port: 57725
+1688971595575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57718/devtools/browser/55fce32b-1c9e-46f1-b296-40637bc385fc
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688977981490	geckodriver	INFO	Listening on 127.0.0.1:65131
+1688977983522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65132" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilegAYB25"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688977984200	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688977984503	Marionette	INFO	Listening on port 65140
+WebDriver BiDi listening on ws://127.0.0.1:65132
+Read port: 65140
+1688977985055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65132/devtools/browser/e4c365cc-956c-43b5-a47d-4ba140096687
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688978031343	geckodriver	INFO	Listening on 127.0.0.1:65223
+1688978033363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiles7UZxH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688978033745	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688978033828	Marionette	INFO	Listening on port 65232
+WebDriver BiDi listening on ws://127.0.0.1:65224
+Read port: 65232
+1688978034159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65224/devtools/browser/862ad64d-f15e-4765-8c0e-5c3c68618a3a
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688978060521	Marionette	INFO	Stopped listening on port 65231688978061128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilepDmXhh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688978061530	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688978061655	Marionette	INFO	Listening on port 65344
+WebDriver BiDi listening on ws://127.0.0.1:65333
+Read port: 65344
+1688978061905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65333/devtools/browser/9ee9bcdc-8a7c-42c4-947e-2aa0e74938b9
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688978081033	Marionette	INFO	Stopped listening on port 65344
+Dynamically enable window occlusion 1
+1688978081229	geckodriver	INFO	Listening on 127.0.0.1:65426
+1688978083235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile613ueZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688978083611	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688978083703	Marionette	INFO	Listening on port 65435
+WebDriver BiDi listening on ws://127.0.0.1:65427
+Read port: 65435
+1688978084014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65427/devtools/browser/1074992e-72a4-45dc-b95c-960c37bfc387
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688978232479	Marionette	INFO	Stopped listening on port 65431688978233243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileNPFfNY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688978233623	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688978233703	Marionette	INFO	Listening on port 49311
+WebDriver BiDi listening on ws://127.0.0.1:49302
+Read port: 49311
+1688978234027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49302/devtools/browser/c7e21e38-25a6-4f58-8f8a-c52c4257534c
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688978262940	Marionette	INFO	Stopped listening on port 49311
+Dynamically enable window occlusion 1
+1688978263654	geckodriver	INFO	Listening on 127.0.0.1:49417
+1688978265670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49418" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileST6RyB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688978266059	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688978266139	Marionette	INFO	Listening on port 49426
+WebDriver BiDi listening on ws://127.0.0.1:49418
+Read port: 49426
+1688978266472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49418/devtools/browser/90fb3855-31ec-45db-8577-dd397e3da2f4
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688978298774	Marionette	INFO	Stopped listening on port 49426
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:115:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1688978298820	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:205
+deleteSession()@WebDriverBiDi.sys.mjs:142
+stop()@WebDriverBiDi.sys.mjs:230
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/rally-studies-v2 getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 184))
+1688978299665	geckodriver	INFO	Listening on 127.0.0.1:49553
+1688978301678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileOtJmIQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688978302045	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688978302128	Marionette	INFO	Listening on port 49564
+WebDriver BiDi listening on ws://127.0.0.1:49554
+Read port: 49564
+1688978302464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49554/devtools/browser/48adf96f-6904-45fa-be3e-b4b05bc88fe6
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688978354121	Marionette	INFO	Stopped listening on port 49561688978355092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilePvDvnu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688978355545	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688978355631	Marionette	INFO	Listening on port 49723
+WebDriver BiDi listening on ws://127.0.0.1:49714
+Read port: 49723
+1688978355998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49714/devtools/browser/1d8e9a5a-d868-4c32-9493-6854f046cff3
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688978445346	geckodriver	INFO	Listening on 127.0.0.1:49903
+1688978447366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileTBrbfO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688978447747	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688978447831	Marionette	INFO	Listening on port 49914
+WebDriver BiDi listening on ws://127.0.0.1:49904
+Read port: 49914
+1688978448190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49904/devtools/browser/7ec5a274-7ff8-466a-b921-66f8f4e9bd09
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688978479455	Marionette	INFO	Stopped listening on port 49914
+Dynamically enable window occlusion 1
+1688978479496	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1688978479515	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:205
+deleteSession()@WebDriverBiDi.sys.mjs:142
+stop()@WebDriverBiDi.sys.mjs:230
+1688978479663	geckodriver	INFO	Listening on 127.0.0.1:50011
+1688978481688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilemC0H4M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688978483094	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688978483175	Marionette	INFO	Listening on port 50023
+WebDriver BiDi listening on ws://127.0.0.1:50012
+Read port: 50023
+1688978483507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50012/devtools/browser/24841e51-6a8e-47c2-a36c-c5e99fb9544c
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688978600898	geckodriver	INFO	Listening on 127.0.0.1:50247
+1688978602917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile50EGzc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688978603301	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688978603380	Marionette	INFO	Listening on port 50258
+WebDriver BiDi listening on ws://127.0.0.1:50248
+Read port: 50258
+1688978603721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50248/devtools/browser/976539eb-3979-460b-a27d-435c8f5bafa4
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688978877099	geckodriver	INFO	Listening on 127.0.0.1:50620
+1688978879100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiler7ndYQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688978879551	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688978879721	Marionette	INFO	Listening on port 50630
+WebDriver BiDi listening on ws://127.0.0.1:50621
+Read port: 50630
+1688978880258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50621/devtools/browser/2fa60308-cbf4-4ab2-adc4-5e0a70614ff4
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1688979170369	geckodriver	INFO	Listening on 127.0.0.1:50990
+1688979172386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiledRFmfl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688979172847	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688979172929	Marionette	INFO	Listening on port 51000
+WebDriver BiDi listening on ws://127.0.0.1:50991
+Read port: 51000
+1688979173212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50991/devtools/browser/c87716a1-5ab7-44a8-adf0-a20d92c4f292
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688979209240	geckodriver	INFO	Listening on 127.0.0.1:51095
+1688979211252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileLNX05R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688979211629	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688979211715	Marionette	INFO	Listening on port 51105
+WebDriver BiDi listening on ws://127.0.0.1:51096
+Read port: 51105
+1688979212046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51096/devtools/browser/a84cc93c-fbf9-492c-9dd6-efe7ea06f882
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688979263180	geckodriver	INFO	Listening on 127.0.0.1:51211
+1688979265201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiledJk7QU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688979265623	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688979265729	Marionette	INFO	Listening on port 51222
+WebDriver BiDi listening on ws://127.0.0.1:51212
+Read port: 51222
+1688979266103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51212/devtools/browser/be6d0722-b1ab-4d1e-a32d-9ac6c04d56d2
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688979445379	geckodriver	INFO	Listening on 127.0.0.1:51446
+1688979447397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile8KxGYi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688979447783	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688979447868	Marionette	INFO	Listening on port 51455
+WebDriver BiDi listening on ws://127.0.0.1:51447
+Read port: 51455
+1688979448201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51447/devtools/browser/378bf632-f0ec-48c3-8c59-313a486c9ebe
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688979678994	geckodriver	INFO	Listening on 127.0.0.1:51716
+1688979681020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile2IXOgQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688979681393	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688979681475	Marionette	INFO	Listening on port 51726
+WebDriver BiDi listening on ws://127.0.0.1:51717
+Read port: 51726
+1688979681809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51717/devtools/browser/76724681-6799-49dc-8192-362c66ab5c55
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688979706352	Marionette	INFO	Stopped listening on port 51721688979708174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile3l83h4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688979708542	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688979708625	Marionette	INFO	Listening on port 51820
+WebDriver BiDi listening on ws://127.0.0.1:51812
+Read port: 51820
+1688979708962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51812/devtools/browser/ca963c5f-46fb-48a6-b9f5-c595c78bfaa5
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688979731478	Marionette	INFO	Stopped listening on port 51820
+Dynamically enable window occlusion 1
+1688979905090	geckodriver	INFO	Listening on 127.0.0.1:52154
+1688979907097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileZiOXrs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688979907476	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688979907562	Marionette	INFO	Listening on port 52164
+WebDriver BiDi listening on ws://127.0.0.1:52155
+Read port: 52164
+1688979907897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52155/devtools/browser/aa91eaa5-efab-46d3-9cde-7b92a544575d
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688980076945	geckodriver	INFO	Listening on 127.0.0.1:52435
+1688980078941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilez4Ou5O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688980079341	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688980079593	Marionette	INFO	Listening on port 52445
+WebDriver BiDi listening on ws://127.0.0.1:52436
+Read port: 52445
+1688980079955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52436/devtools/browser/1c772904-8567-47ea-880d-1cfb245eb142
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688980438059	geckodriver	INFO	Listening on 127.0.0.1:52848
+1688980440068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileTAxxau"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688980440442	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688980440527	Marionette	INFO	Listening on port 52858
+WebDriver BiDi listening on ws://127.0.0.1:52849
+Read port: 52858
+1688980440869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52849/devtools/browser/7d668931-4e55-467c-b2f8-0988c3917491
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688980463835	geckodriver	INFO	Listening on 127.0.0.1:52940
+1688980465854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileXk0JCE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688980466221	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688980466306	Marionette	INFO	Listening on port 52952
+WebDriver BiDi listening on ws://127.0.0.1:52941
+Read port: 52952
+1688980466643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52941/devtools/browser/d58752b0-42c8-4864-921a-a0d27336836f
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688980505545	geckodriver	INFO	Listening on 127.0.0.1:53095
+1688980507565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile1HdhmY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688980507929	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688980508016	Marionette	INFO	Listening on port 53104
+WebDriver BiDi listening on ws://127.0.0.1:53096
+Read port: 53104
+1688980508346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53096/devtools/browser/9b62df7a-c500-411d-bd9b-89a44d7b5b04
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688980616735	geckodriver	INFO	Listening on 127.0.0.1:53287
+1688980618755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53288" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileSbiZko"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688980619126	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688980619207	Marionette	INFO	Listening on port 53297
+WebDriver BiDi listening on ws://127.0.0.1:53288
+Read port: 53297
+1688980619540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53288/devtools/browser/16a761b3-148c-4b16-b4b3-8d12a89e6671
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1688980800087	geckodriver	INFO	Listening on 127.0.0.1:53665
+1688980802118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileVPmhfo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688980802497	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688980802578	Marionette	INFO	Listening on port 53675
+WebDriver BiDi listening on ws://127.0.0.1:53666
+Read port: 53675
+1688980802899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53666/devtools/browser/510a9619-327a-40bb-b84c-98c8e1b7179f
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1688980975179	geckodriver	INFO	Listening on 127.0.0.1:53967
+1688980977180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilefnasaj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688980977574	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688980977657	Marionette	INFO	Listening on port 53977
+WebDriver BiDi listening on ws://127.0.0.1:53968
+Read port: 53977
+1688980977918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53968/devtools/browser/fa0cf101-5156-4af8-8ee0-9abf08ce7eac
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688981028600	geckodriver	INFO	Listening on 127.0.0.1:54082
+1688981030629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileqIaAJj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688981030999	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688981031081	Marionette	INFO	Listening on port 54092
+WebDriver BiDi listening on ws://127.0.0.1:54083
+Read port: 54092
+1688981031413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54083/devtools/browser/eeedd4f8-c509-4424-8462-2ec3ed9f2d66
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1689036698695	Marionette	INFO	Stopped listening on port 54092
+Dynamically enable window occlusion 1
+1689036703925	geckodriver	INFO	Listening on 127.0.0.1:51050
+1689036705968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileBIqkYz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689036706353	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689036706432	Marionette	INFO	Listening on port 51058
+WebDriver BiDi listening on ws://127.0.0.1:51051
+Read port: 51058
+1689036706582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51051/devtools/browser/b140be4e-fc69-4207-b255-7aa0c54a4078
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689038455788	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689039354653	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689039802908	geckodriver	INFO	Listening on 127.0.0.1:51642
+1689039804931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileEOWCL6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689039805311	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689039805395	Marionette	INFO	Listening on port 51650
+WebDriver BiDi listening on ws://127.0.0.1:51643
+Read port: 51650
+1689039805712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51643/devtools/browser/4e0e5dfa-2b14-4616-954a-93af5f9ab986
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689040337804	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+1689040397394	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689040888553	geckodriver	INFO	Listening on 127.0.0.1:52775
+1689040897434	geckodriver	INFO	Listening on 127.0.0.1:52798
+1689040899457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilero3oNY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689040901289	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689040901378	Marionette	INFO	Listening on port 52809
+WebDriver BiDi listening on ws://127.0.0.1:52799
+Read port: 52809
+1689040901830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52799/devtools/browser/36cf60df-68b9-4c0d-9b20-d1c5f9f8c38f
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689052950260	geckodriver	INFO	Listening on 127.0.0.1:51304
+1689052952240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile5kvOOR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689052953337	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689052953471	Marionette	INFO	Listening on port 51314
+WebDriver BiDi listening on ws://127.0.0.1:51305
+Read port: 51314
+1689052953934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51305/devtools/browser/8154c321-8147-4bd5-802b-ea14ec30f096
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689052992322	geckodriver	INFO	Listening on 127.0.0.1:51427
+1689052994342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51428" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileu7f5gr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689052994836	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689052994934	Marionette	INFO	Listening on port 51438
+WebDriver BiDi listening on ws://127.0.0.1:51428
+Read port: 51438
+1689052995388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51428/devtools/browser/4ae9b187-9da4-45b1-bfe2-bc04f5d23b4a
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689053507928	geckodriver	INFO	Listening on 127.0.0.1:51979
+1689053509937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51980" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileQCwujW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689053510424	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689053510597	Marionette	INFO	Listening on port 51989
+WebDriver BiDi listening on ws://127.0.0.1:51980
+Read port: 51989
+1689053511014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51980/devtools/browser/a430e8c0-015c-42d4-9ce8-00d6db15dfa5
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689053761540	Marionette	INFO	Stopped listening on port 51989
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilegl2khU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689053584650	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689053584747	Marionette	INFO	Listening on port 52169
+WebDriver BiDi listening on ws://127.0.0.1:52160
+Read port: 52169
+1689053585175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52160/devtools/browser/17d97f13-556a-4fcd-bb64-ccddb65efd4d
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 2900, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.m1689053761728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileCGRrzS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689053762347	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689053762444	Marionette	INFO	Listening on port 52428
+Read port: 52428
+WebDriver BiDi listening on ws://127.0.0.1:52420
+1689053762605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52420/devtools/browser/3876cdfc-b087-4277-9018-16267ffebd2d
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689053827720	geckodriver	INFO	Listening on 127.0.0.1:52593
+1689053829713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52594" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilekC4aQw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689053830183	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689053830291	Marionette	INFO	Listening on port 52603
+WebDriver BiDi listening on ws://127.0.0.1:52594
+Read port: 52603
+1689053830698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52594/devtools/browser/fcfa09a8-9d7f-4bd9-8b2a-cebccf1706a0
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689053916740	geckodriver	INFO	Listening on 127.0.0.1:52816
+1689053918773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilereu2Fp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689053919243	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689053919343	Marionette	INFO	Listening on port 52826
+WebDriver BiDi listening on ws://127.0.0.1:52817
+Read port: 52826
+1689053919742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52817/devtools/browser/5fcfa224-e47b-4981-b74d-7166ab0d45da
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1689055028796	Marionette	INFO	Stopped listening on port 52826
+Dynamically enable window occlusion 1
+1689055031388	geckodriver	INFO	Listening on 127.0.0.1:53484
+1689055033410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilecbVQwa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689055033782	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689055033861	Marionette	INFO	Listening on port 53492
+WebDriver BiDi listening on ws://127.0.0.1:53485
+Read port: 53492
+1689055034140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53485/devtools/browser/04188cad-6bd7-41f1-9aa0-2b206998c83a
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 4248, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689055218856	geckodriver	INFO	Listening on 127.0.0.1:53547
+1689055220876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileLGmK6S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689055221247	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689055221325	Marionette	INFO	Listening on port 53555
+WebDriver BiDi listening on ws://127.0.0.1:53548
+Read port: 53555
+1689055221645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53548/devtools/browser/13f9ea52-8e2e-447d-becb-2ecfcb2f33d8
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1689056725793	Marionette	INFO	Stopped listening on port 53555
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileCX9c34"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689056621379	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689056621455	Marionette	INFO	Listening on port 54121
+WebDriver BiDi listening on ws://127.0.0.1:54114
+Read port: 54121
+1689056621801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54114/devtools/browser/def14731-b810-4d6a-b486-a969f8d68c42
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689056813622	geckodriver	INFO	Listening on 127.0.0.1:54171
+1689056815642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilegUKqy4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689056816014	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689056816096	Marionette	INFO	Listening on port 54179
+WebDriver BiDi listening on ws://127.0.0.1:54172
+Read port: 54179
+1689056816421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54172/devtools/browser/eb8e026e-add2-4fab-b295-2f385cf58cc5
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689056927885	Marionette	INFO	Stopped listening on port 54179
+Dynamically enable window occlusion 1
+1689056930841	geckodriver	INFO	Listening on 127.0.0.1:54234
+1689056932860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileEm7Tg8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689056933218	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689056933301	Marionette	INFO	Listening on port 54242
+WebDriver BiDi listening on ws://127.0.0.1:54235
+Read port: 54242
+1689056933628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54235/devtools/browser/4da43bc4-bb3f-4b79-a60a-8208c8f50440
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689056953641	Marionette	INFO	Stopped listening on port 54242
+Dynamically enable window occlusion 1
+1689056955525	geckodriver	INFO	Listening on 127.0.0.1:54283
+1689056957535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54284" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileMu6ow0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689056957903	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689056957988	Marionette	INFO	Listening on port 54291
+WebDriver BiDi listening on ws://127.0.0.1:54284
+Read port: 54291
+1689056958308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54284/devtools/browser/19db673e-10b3-4efe-931a-1934cbafeb0b
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689059810941	Marionette	INFO	Stopped listening on port 54291
+Dynamically enable window occlusion 1
+1689059814539	geckodriver	INFO	Listening on 127.0.0.1:54988
+1689059816557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilef4IWOG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689059816944	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689059817030	Marionette	INFO	Listening on port 54998
+WebDriver BiDi listening on ws://127.0.0.1:54989
+Read port: 54998
+1689059817314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54989/devtools/browser/0b461fe2-a1e7-4b20-b810-b8c60c4f9eb2
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689062312092	Marionette	INFO	Stopped listening on port 54998
+Dynamically enable window occlusion 1
+[Parent 10496, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+[Parent 10496, IPC I/O Parent] WARNING: pipe erconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689062312976	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689062313211	Marionette	INFO	Listening on port 65485
+WebDriver BiDi listening on ws://127.0.0.1:65478
+Read port: 65485
+1689062313605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65478/devtools/browser/bf0fb749-1d7e-4e4e-a39d-98450c701ef6
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689062447995	geckodriver	INFO	Listening on 127.0.0.1:49228
+1689062450014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilePRnOIk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689062450395	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689062450482	Marionette	INFO	Listening on port 49238
+WebDriver BiDi listening on ws://127.0.0.1:49229
+Read port: 49238
+1689062450831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49229/devtools/browser/943654e5-0752-41fc-9672-a3748105cade
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689062511423	geckodriver	INFO	Listening on 127.0.0.1:49355
+1689062513429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilepcYxds"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689062513807	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689062513896	Marionette	INFO	Listening on port 49363
+WebDriver BiDi listening on ws://127.0.0.1:49356
+Read port: 49363
+1689062514242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49356/devtools/browser/365cec81-c247-4c8d-8740-143a98bba85e
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689065045446	Marionette	INFO	Stopped listening on port 49363
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 184))
+ort" "50022" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileCbvDfP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689064935508	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689064935588	Marionette	INFO	Listening on port 50029
+WebDriver BiDi listening on ws://127.0.0.1:50022
+Read port: 50029
+1689064935866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50022/devtools/browser/56b1c191-c4bd-44cc-ba4c-9fdd0d385ae0
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689067630258	Marionette	INFO	Stopped listening on port 50029
+Dynamically enable window occlusion 1
+1689067631573	geckodriver	INFO	Listening on 127.0.0.1:50601
+1689067633576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50602" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile5Ua3zp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689067634700	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689067634790	Marionette	INFO	Listening on port 50609
+WebDriver BiDi listening on ws://127.0.0.1:50602
+Read port: 50609
+1689067635135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50602/devtools/browser/c285961d-bb74-4349-8c12-9ecb8398b111
+JavaScript warning: https://entp.yjj.gxzf.gov.cn/Kz2BrDR4GY7B/KKKxioo2A7cH.31b3314.js line 3 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://entp.yjj.gxzf.gov.cn."
+1689122336541	Marionette	INFO	Stopped listening on port 50609
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1689122336584	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:205
+deleteSession()@WebDriverBiDi.sys.mjs:142
+stop()@WebDriverBiDi.sys.mjs:230
+1689125906529	geckodriver	INFO	Listening on 127.0.0.1:54907
+1689125908578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileMjvyhe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689125909616	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689125909721	Marionette	INFO	Listening on port 54917
+Read port: 54917
+WebDriver BiDi listening on ws://127.0.0.1:54908
+1689125909853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54908/devtools/browser/9955cd07-407b-408d-9f60-8e97482905bd
+1689126086332	Marionette	INFO	Stopped listening on port 54911689126086655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55128" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilew0efjR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689126087033	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689126087113	Marionette	INFO	Listening on port 55135
+WebDriver BiDi listening on ws://127.0.0.1:55128
+Read port: 55135
+1689126087430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55128/devtools/browser/1a8f83a9-47c2-40dc-984d-6dad5d107238
+1689126144394	Marionette	INFO	Stopped listening on port 55135
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1689126144442	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSe1689126144567	Marionette	INFO	Listening on port 55340
+WebDriver BiDi listening on ws://127.0.0.1:55333
+Read port: 55340
+1689126145009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55333/devtools/browser/dc123df4-7253-4dbd-ab39-ee1cc1c7525b
+sion()@WebDriverBiDi.sys.mjs:142
+stop()@WebDriverBiDi.sys.mjs:230
+1689126202748	geckodriver	INFO	Listening on 127.0.0.1:55477
+1689126204767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55478" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileXXpwYp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689126205153	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689126205235	Marionette	INFO	Listening on port 55485
+WebDriver BiDi listening on ws://127.0.0.1:55478
+Read port: 55485
+1689126205563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55478/devtools/browser/04b6df72-04e0-4231-8187-1b6149524540
+1689126302467	geckodriver	INFO	Listening on 127.0.0.1:55636
+1689126304482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileWPlH62"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689126304852	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689126304936	Marionette	INFO	Listening on port 55644
+WebDriver BiDi listening on ws://127.0.0.1:55637
+Read port: 55644
+1689126305301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55637/devtools/browser/0a417be3-64d2-4408-a816-0d3094b1ae0d
+1689126623340	geckodriver	INFO	Listening on 127.0.0.1:55713
+1689126625362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilek3wzzM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689126625781	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689126625874	Marionette	INFO	Listening on port 55721
+WebDriver BiDi listening on ws://127.0.0.1:55714
+Read port: 55721
+1689126626185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55714/devtools/browser/6543fcae-b044-41ce-8a16-ed23c2385764
+1689127497990	geckodriver	INFO	Listening on 127.0.0.1:56169
+1689127500002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileXg1G1C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689127500541	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689127500640	Marionette	INFO	Listening on port 56179
+WebDriver BiDi listening on ws://127.0.0.1:56170
+Read port: 56179
+1689127501050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56170/devtools/browser/add8616f-e73f-4201-ab1e-927017a40cc6
+1689127635756	geckodriver	INFO	Listening on 127.0.0.1:56457
+1689127637774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilerx7yKk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689127638165	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689127638245	Marionette	INFO	Listening on port 56467
+WebDriver BiDi listening on ws://127.0.0.1:56458
+Read port: 56467
+1689127638577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56458/devtools/browser/714a5378-fc4f-47fd-a511-13403880c2cb
+1689127716833	geckodriver	INFO	Listening on 127.0.0.1:57016
+1689127718856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileja43YX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689127719237	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689127719318	Marionette	INFO	Listening on port 57026
+WebDriver BiDi listening on ws://127.0.0.1:57017
+Read port: 57026
+1689127719588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57017/devtools/browser/7fc84217-6a44-4b29-9800-7eda83aa7748
+1689127787682	geckodriver	INFO	Listening on 127.0.0.1:57434
+1689127789772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilecHobD1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689127790143	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689127790230	Marionette	INFO	Listening on port 57444
+WebDriver BiDi listening on ws://127.0.0.1:57435
+Read port: 57444
+1689127790551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57435/devtools/browser/c58a4858-bf32-4016-8b3d-cdb48b128666
+1689128136930	geckodriver	INFO	Listening on 127.0.0.1:58482
+1689128138948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileAeBkeB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689128139323	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689128139405	Marionette	INFO	Listening on port 58493
+WebDriver BiDi listening on ws://127.0.0.1:58483
+Read port: 58493
+1689128139697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58483/devtools/browser/cc8d603c-068d-4619-8e03-781f5bd2b3a9
+1689128187872	geckodriver	INFO	Listening on 127.0.0.1:59090
+1689128189892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilehRRYfg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689128190256	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689128190338	Marionette	INFO	Listening on port 59100
+WebDriver BiDi listening on ws://127.0.0.1:59091
+Read port: 59100
+1689128190669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59091/devtools/browser/460a12e5-5a07-4fce-873d-4cc869cada67
+1689128513962	geckodriver	INFO	Listening on 127.0.0.1:61496
+1689128515976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilellhpY9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689128516379	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689128516486	Marionette	INFO	Listening on port 61506
+WebDriver BiDi listening on ws://127.0.0.1:61497
+Read port: 61506
+1689128516902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61497/devtools/browser/9d54b149-f3b0-44f1-8195-8334972a74b0
+1689128635076	geckodriver	INFO	Listening on 127.0.0.1:61643
+1689128637101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilezPVvmT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689128638558	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689128638648	Marionette	INFO	Listening on port 61653
+WebDriver BiDi listening on ws://127.0.0.1:61644
+Read port: 61653
+1689128638990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61644/devtools/browser/62d5d84f-a0e4-42f5-991b-1109e9bd5f40
+1689128936716	geckodriver	INFO	Listening on 127.0.0.1:62159
+1689128938733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileGbs1cs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689128939117	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689128939195	Marionette	INFO	Listening on port 62169
+WebDriver BiDi listening on ws://127.0.0.1:62160
+Read port: 62169
+1689128939530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62160/devtools/browser/b52f5689-0cc3-4bfd-81e0-507ccdfed360
+1689129379677	geckodriver	INFO	Listening on 127.0.0.1:62601
+1689129381687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62602" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilenq6GvJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689129382169	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689129382267	Marionette	INFO	Listening on port 62611
+WebDriver BiDi listening on ws://127.0.0.1:62602
+Read port: 62611
+1689129382699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62602/devtools/browser/91b63037-eff9-432d-bf6f-9d2978e38f97
+1689129789520	geckodriver	INFO	Listening on 127.0.0.1:63019
+1689129791535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63020" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileYTtdfB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689129791918	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689129791999	Marionette	INFO	Listening on port 63029
+WebDriver BiDi listening on ws://127.0.0.1:63020
+Read port: 63029
+1689129792357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63020/devtools/browser/7764c91b-547e-40e2-a01e-3358be4b6210
